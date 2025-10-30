@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":355,"indent":0,"parameters":["String.prototype.hashCode = function() {"]},{"code":655,"indent":0,"parameters":["    let hash = 0;"]},{"code":655,"indent":0,"parameters":["    for (let i = 0; i < this.length; i++) {"]},{"code":655,"indent":0,"parameters":["        let char = this.charCodeAt(i);"]},{"code":655,"indent":0,"parameters":["        hash = (hash << 5) - hash + char;"]},{"code":655,"indent":0,"parameters":["        hash |= 0; "]},{"code":655,"indent":0,"parameters":["    }"]},{"code":655,"indent":0,"parameters":["    return (hash >>> 0).toString(16); "]},{"code":655,"indent":0,"parameters":["};"]},{"code":0,"indent":0,"parameters":[]}],"name":"Função HashCode","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]

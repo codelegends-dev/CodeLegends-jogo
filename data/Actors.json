@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Mago","characterIndex":0,"characterName":"Mago","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Mago","traits":[],"initialLevel":1,"maxLevel":10,"name":"Mago","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Sacerdote","characterIndex":0,"characterName":"Sacerdote","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Sacerdote","traits":[],"initialLevel":1,"maxLevel":10,"name":"Sacerdote","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Guerreiro","characterIndex":0,"characterName":"Guerreiro","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Guerreiro","traits":[],"initialLevel":1,"maxLevel":10,"name":"Guerreiro","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
