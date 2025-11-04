@@ -1,14 +1,15 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Introdução","order":1,"parentId":0,"scrollX":1061.142857142857,"scrollY":597.4285714285714,"quick":false},
+{"id":1,"expanded":true,"name":"Introdução","order":1,"parentId":0,"scrollX":1061.142857142857,"scrollY":583.7142857142857,"quick":false},
 {"id":2,"expanded":true,"name":"Introdução","order":2,"parentId":1,"scrollX":1325.142857142857,"scrollY":1886.5714285714284},
 {"id":3,"expanded":true,"name":"Seleção de personagens","order":3,"parentId":2,"scrollX":1061.142857142857,"scrollY":583.7142857142857,"quick":false},
-{"id":4,"expanded":true,"name":"Cidade","order":4,"parentId":1,"scrollX":1069.7142857142856,"scrollY":763.7142857142857},
+{"id":4,"expanded":true,"name":"Cidade","order":4,"parentId":1,"scrollX":1061.142857142857,"scrollY":597.4285714285714},
 {"id":5,"expanded":true,"name":"Vila","order":5,"parentId":4,"scrollX":1074.857142857143,"scrollY":842.5714285714286,"quick":false},
-{"id":6,"expanded":true,"name":"Laboratório - Missão 1","order":6,"parentId":5,"scrollX":1061.142857142857,"scrollY":583.7142857142857,"quick":false},
-{"id":7,"expanded":true,"name":"Base - Missão 2","order":7,"parentId":6,"scrollX":1074.857142857143,"scrollY":599.1428571428571,"quick":false},
+{"id":6,"expanded":true,"name":"Laboratório - Missão 1","order":6,"parentId":5,"scrollX":1061.142857142857,"scrollY":597.4285714285714,"quick":false},
+{"id":7,"expanded":true,"name":"Base - Missão 2","order":7,"parentId":6,"scrollX":1061.142857142857,"scrollY":599.1428571428571,"quick":false},
 {"id":8,"expanded":true,"name":"Loja de Armas - Missão 3","order":8,"parentId":7,"scrollX":1061.142857142857,"scrollY":597.4285714285714,"quick":false},
-{"id":9,"expanded":true,"name":"Circulo mágico - Missão 4","order":9,"parentId":8,"scrollX":1074.857142857143,"scrollY":842.5714285714286,"quick":false},
-{"id":10,"expanded":false,"name":"Base Militar Interior - 5","order":11,"parentId":11,"scrollX":1061.142857142857,"scrollY":799.7142857142857,"quick":false},
-{"id":11,"expanded":true,"name":"Ruínas - Missão 5","order":10,"parentId":4,"scrollX":1061.142857142857,"scrollY":991.7142857142857,"quick":false}
+{"id":9,"expanded":true,"name":"Circulo mágico - Missão 4","order":9,"parentId":8,"scrollX":1061.142857142857,"scrollY":842.5714285714286,"quick":false},
+{"id":10,"expanded":true,"name":"Base Militar Interior - 5","order":11,"parentId":11,"scrollX":1074.857142857143,"scrollY":842.5714285714286,"quick":false},
+{"id":11,"expanded":true,"name":"Ruínas - Missão 5","order":10,"parentId":4,"scrollX":1061.142857142857,"scrollY":991.7142857142857,"quick":false},
+{"id":12,"expanded":false,"name":"Final!","order":12,"parentId":10,"scrollX":1061.142857142857,"scrollY":597.4285714285714,"quick":false}
 ]
